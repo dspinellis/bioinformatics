@@ -3,7 +3,6 @@
 #TeX-related files
 *.aux
 *.bbl
-*.bib
 *.blg
 *.dvi
 *.log
